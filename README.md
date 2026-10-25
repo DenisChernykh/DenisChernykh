@@ -52,4 +52,4 @@ React · Next.js · TypeScript · Telegram Mini Apps
 
 React и TypeScript · Node.js / NestJS · PHP / Laravel · Python / Flask · SQL / PostgreSQL · REST API · Telegram · ChatGPT / MCP · Docker и CI/CD
 
-Интересны продуктовая fullstack-разработка, внутренние системы, интеграции и автоматизация, продукты с AI-интерфейсами.
+Интересны продуктовая fullstack-разработка, внутренние системы, автоматизация и интеграции с внешними сервисами, включая ChatGPT и Telegram.
