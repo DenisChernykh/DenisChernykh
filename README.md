@@ -40,7 +40,7 @@ React · TypeScript · Hono · Cloudflare Workers, D1 и Queues · Instagram API
 
 Пользователь может создать цель, записывать результаты и настроить напоминания в одном приложении.
 
-[Открыть приложение](https://app.getplanner.workers.dev/) · [Посмотреть код](https://github.com/DenisChernykh/planner-backend)
+[Открыть приложение](https://app.getplanner.workers.dev/) · [Посмотреть код](https://github.com/DenisChernykh/rhythm)
 
 **Telegram Moderator — модерация комментариев с помощью ChatGPT**
 
